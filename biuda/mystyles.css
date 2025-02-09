@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(246, 218, 165);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  margin-left: 500px;
+  margin-top: 100px;
+}
+h4 {
+  margin-left: 510px;
+}
+.button {
+  margin-left: 450px;
+  width: 150px;
+  height: 25px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: black;
+}
+button:hover {
+  background-color: rgb(67, 67, 67);
+}
+.button2 {
+  margin-left: -10px;
+  width: 150px;
+  height: 25px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.container {
+  margin-left: 400px;
+  margin-right: 500px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+}
+h5 {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.email {
+  margin-left: 10px;
+  width: 370px;
+  height: 20px;
+}
+.password{
+    margin-left: 10px;
+    width: 370px;
+    height: 20px;
+}
+.button3{
+    margin-left: 10px;
+    width: 370px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: orange;
+    outline: none;
+    border: none;
+}
+h6{
+    margin-left: 50px;
+}
+h6{
+    margin-top: 7px;
+    margin-left: 150px;
+}
